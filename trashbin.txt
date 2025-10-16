@@ -1,0 +1,38 @@
+## 
+ 
+# Backend Wizards — Stage 0: Profile Endpoint 🧙‍♂️
+
+## Overview
+ 
+{port}
+ 
+const server = port;
+console.log(` Server running at port 3000`);
+ 
+
+// Custom startup log
+ 
+
+// No app.listen — just keeping a constant for port reference
+ 
+
+// Mount router on the app
+ 
+
+// Attach route
+ 
+ ✅ replace with your email
+ 
+ ✅ replace with your full name
+ 
+our Full Name
+ 
+ouremail@example.com
+ 
+// Always fetch dynamically
+ 
+andler
+ 
+
+// Router for better organization
+ 
