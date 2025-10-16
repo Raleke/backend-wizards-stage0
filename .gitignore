@@ -1,2 +1,4 @@
 node_modules/
 trashbin.txt/
+.env
+.DS_Store

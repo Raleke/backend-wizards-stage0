@@ -1,3 +1,6 @@
+node_modules/
+trashbin.txt/
+ 
 ## 
  
 # Backend Wizards — Stage 0: Profile Endpoint 🧙‍♂️
